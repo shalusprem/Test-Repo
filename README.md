@@ -1,3 +1,3 @@
-# Test-Repo
-testrepo will create
-new test will create
+# maven-project
+
+Simple Maven Project
